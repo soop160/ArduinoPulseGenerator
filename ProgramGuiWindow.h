@@ -115,7 +115,6 @@ private Q_SLOTS:
     void onNewSerialData();
     void onLockStateChanged(int state);
     void updateTraditionalDisabledControls();
-    void updateFrequencyControlsRange();
 
     void repopulatePortComboBox();
     void updateEquivalentProgram();
